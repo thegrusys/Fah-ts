@@ -1,13 +1,25 @@
 {
     "spec": 1,
-    "name": "Soviet",
-    "previewText": "Soviet font made by Iconian Fonts.",
+    "name": "Comic Sans",
+    "previewText": "The Quick Brown Fox Jumps Over The Lazy Dog",
     "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/thegrusys/Fah-ts/raw/refs/heads/main/Soviet2be.ttf?raw=1",
         "ggsans-Bold": "https://github.com/thegrusys/Fah-ts/raw/refs/heads/main/Soviet2b.ttf?raw=1",
         "ggsans-BoldItalic": "https://github.com/thegrusys/Fah-ts/raw/refs/heads/main/Soviet2bi.ttf?raw=1",
         "ggsans-ExtraBold": "https://github.com/thegrusys/Fah-ts/raw/refs/heads/main/Soviet2be.ttf?raw=1",
         "ggsans-ExtraBoldItalic": "https://github.com/thegrusys/Fah-ts/raw/refs/heads/main/Soviet2bei.ttf?raw=1",
+        "ggsans-Medium": "https://github.com/thegrusys/Fah-ts/raw/refs/heads/main/Soviet2b.ttf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/thegrusys/Fah-ts/raw/refs/heads/main/Soviet2bi.ttf?raw=1",
         "ggsans-Normal": "https://github.com/thegrusys/Fah-ts/raw/refs/heads/main/Soviet2.ttf?raw=1",
-        "ggsans-NormalItalic": "https://github.com/thegrusys/Fah-ts/raw/refs/heads/main/Soviet2i.ttf?raw=1"
+        "ggsans-NormalItalic": "https://github.com/thegrusys/Fah-ts/raw/refs/heads/main/Soviet2i.ttf?raw=1",
+        "ggsans-Semibold": "https://github.com/thegrusys/Fah-ts/raw/refs/heads/main/Soviet2b.ttf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/thegrusys/Fah-ts/raw/refs/heads/main/Soviet2bi.ttf?raw=1",
+        "NotoSans-Bold": "https://github.com/thegrusys/Fah-ts/raw/refs/heads/main/Soviet2b.ttf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/thegrusys/Fah-ts/raw/refs/heads/main/Soviet2be.ttf?raw=1",
+        "NotoSans-Medium": "https://github.com/thegrusys/Fah-ts/raw/refs/heads/main/Soviet2b.ttf?raw=1",
+        "NotoSans-Normal": "https://github.com/thegrusys/Fah-ts/raw/refs/heads/main/Soviet2.ttf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/thegrusys/Fah-ts/raw/refs/heads/main/Soviet2i.ttf?raw=1",
+        "NotoSans-Semibold": "https://github.com/thegrusys/Fah-ts/raw/refs/heads/main/Soviet2b.ttf?raw=1",
+        "ggmono-Normal": "https://github.com/thegrusys/Fah-ts/raw/refs/heads/main/Soviet2.ttf?raw=1"
     }
 }
